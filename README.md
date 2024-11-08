@@ -11,7 +11,6 @@ A simple and responsive weather application that provides real-time weather data
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
 - **API**: OpenWeather API
-- **Deployment**: Netlify (or your preferred hosting platform)
 
 ## Installation
 
